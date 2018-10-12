@@ -10,6 +10,19 @@ To contribute:
 Two-letter locations indicate states in the U.S.; countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 
 ## Currently Open Applications
+
+### Asia & Pacific
+| Name | Location | Application Period | Notes  | 
+|---|---|---|---|
+| [Skelter Labs](mailto:recruit@skelterlabs.com)  | Seoul, South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
+
+
+### Europe
+| Name | Location | Application Period | Notes  | 
+|---|---|---|---|
+
+
+### North America
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
