@@ -20,7 +20,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ### Europe
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
-
+| [KAYAK](https://www.kayak.com/careers/#jobopenings) | United Kingdom, Lithuania | Present | SWE intern. |
 
 ### North America
 | Name | Location | Application Period | Notes  | 
