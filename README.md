@@ -14,13 +14,18 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ### Asia & Pacific
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
-| [Skelter Labs](mailto:recruit@skelterlabs.com)  | Seoul, South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
+| [Skelter Labs](mailto:recruit@skelterlabs.com)  | South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
 
 
 ### Europe
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
-| [KAYAK](https://www.kayak.com/careers/#jobopenings) | United Kingdom, Lithuania | Present | SWE intern. |
+| [KAYAK](https://www.kayak.com/careers/#jobopenings) | United Kingdom, Lithuania | Present | SWE Intern. |
+| [MongoDB](https://www.mongodb.com/careers/jobs/1382874) | Ireland | Present | SWE Intern | 
+| [Spotify](https://www.spotifyjobs.com/search-jobs/#category=students&location=uk%2Csweden%2Cspain%2Cfrance%2Citaly)| United Kingdom, Sweden | Present | A variety of internship positions, from UX to ML. Article: ["How to get a job at Spotify"](https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/)| 
+| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)| Frankfurt, Johannesburg, London, Madrid, Moscow, Stockholm, Tel Aviv, Warsaw, Zurich | Present | For sophomores and juniors. The position will depend on your application | 
+| [JetBrains](https://www.jetbrains.com/company/jobs/#sw-dev-intern-idea-munich) | Germany, Russia | Present | Software Developer Intern and Research Intern. |
+
 
 ### North America
 | Name | Location | Application Period | Notes  | 
