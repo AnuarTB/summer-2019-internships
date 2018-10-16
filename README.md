@@ -26,6 +26,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)| Frankfurt, Johannesburg, London, Madrid, Moscow, Stockholm, Tel Aviv, Warsaw, Zurich | Present | For sophomores and juniors. The position will depend on your application | 
 | [JetBrains](https://www.jetbrains.com/company/jobs/#sw-dev-intern-idea-munich) | Germany, Russia | Present | Software Developer Intern and Research Intern. |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-dublin) | Ireland | Present | SWE Intern. Plan to graduate in 2019/2020/2021 |
+| [Lyft](https://boards.greenhouse.io/lyft/jobs/4076400002?gh_jid=4076400002)  | Germany | Present | SWE Intern - Autonomous Driving. | 
 
 ### North America
 | Name | Location | Application Period | Notes  | 
@@ -113,7 +114,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Lime](https://jobs.lever.co/limebike/f83ba173-769d-4992-88dc-ff828c87131d)  | CA | Present | |
 | [LinkedIn](https://www.linkedin.com/jobs/view/829001122/)  | Multiple | Present | No freshmen |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
-| [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
+| [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY | Present | | 
 | [MailChimp](https://mailchimp.com/jobs/)  | Atlanta | Present | | 
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
