@@ -27,6 +27,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [JetBrains](https://www.jetbrains.com/company/jobs/#sw-dev-intern-idea-munich) | Germany, Russia | Present | Software Developer Intern and Research Intern. |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-dublin) | Ireland | Present | SWE Intern. Plan to graduate in 2019/2020/2021 |
 | [Lyft](https://boards.greenhouse.io/lyft/jobs/4076400002?gh_jid=4076400002)  | Germany | Present | SWE Intern - Autonomous Driving. | 
+| [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
 
 ### North America
 | Name | Location | Application Period | Notes  | 
@@ -97,7 +98,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [iCIMS](https://careers.icims.com/job/3942/software-engineering-internships-(summer-2019)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | NJ | Present | |
 | [Illumio](https://jobs.smartrecruiters.com/Illumio/743999675308471-data-engineer-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must graduate in June 2020. Data Engineer role |
 | [IMC Trading](https://www.builtinchicago.org/job/internship/software-engineer-intern-summer-2019/63491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IL | Present | |
-| [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | CA | Present | |
 | [InterSystems](https://www.indeed.com/viewjob?jk=b0b085b982e183e3)  | MA | Present | |
 | [IXL Learning](https://www.ixl.com/company/jobs/internship)  | CA | Present | |
