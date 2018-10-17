@@ -16,7 +16,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|---|
 | [Skelter Labs](mailto:recruit@skelterlabs.com)  | South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
 | [HDE Global Internship Program](https://www.hde.co.jp/en/gip/)| Japan | Present | For junior or senior students. Many 6-7 week slots for internships. |
-| [Crazing Lab](mailto:sang@wom.ai)| South Korea | Present | CEO's mail is given in the link. Possible relocation to US for the internship | 
+
 
 
 ### Europe
