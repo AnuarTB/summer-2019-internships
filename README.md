@@ -28,6 +28,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-dublin) | Ireland | Present | SWE Intern. Plan to graduate in 2019/2020/2021 |
 | [Lyft](https://boards.greenhouse.io/lyft/jobs/4076400002?gh_jid=4076400002)  | Germany | Present | SWE Intern - Autonomous Driving. | 
 | [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
+| [Optiver](https://www.optiver.com/ap/en/job-opportunities/eu-990203)| Netherlands | Present | Summer Technology Intern |
 
 ### North America
 | Name | Location | Application Period | Notes  | 
