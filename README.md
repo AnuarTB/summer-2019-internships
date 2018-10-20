@@ -16,7 +16,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|---|
 | [Skelter Labs](mailto:recruit@skelterlabs.com)  | South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
 | [HDE Global Internship Program](https://www.hde.co.jp/en/gip/)| Japan | Present | For junior or senior students. Many 6-7 week slots for internships. |
-
+| [Jane Street](https://www.janestreet.com/join-jane-street/apply/)| Hong Kong | Present | |
 
 ### Europe
 | Name | Location | Application Period | Notes  | 
@@ -32,6 +32,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Optiver](https://www.optiver.com/ap/en/job-opportunities/eu-990203)| Netherlands | Present | Summer Technology Intern. Penultimate or last-year students. |
 | [StarLeaf](https://www.linkedin.com/jobs/search/?currentJobId=856542337&distance=25&f_C=285668&f_E=1&locationId=OTHERS.worldwide) | United Kingdom | Present | |
 | [Bloomberg](https://careers.bloomberg.com/job/search?el=Internships&fd=Engineering&lc=London)| United Kingdom | Present | |
+| [Jane Street](https://www.janestreet.com/join-jane-street/apply/)| United Kingdom | Present | |
 
 ### North America
 | Name | Location | Application Period | Notes  | 
