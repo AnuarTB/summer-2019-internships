@@ -18,7 +18,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [HDE Global Internship Program](https://www.hde.co.jp/en/gip/)| Japan | Present | For junior or senior students. Many 6-7 week slots for internships. |
 
 
-
 ### Europe
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
@@ -31,6 +30,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Lyft](https://boards.greenhouse.io/lyft/jobs/4076400002?gh_jid=4076400002)  | Germany | Present | SWE Intern - Autonomous Driving. | 
 | [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
 | [Optiver](https://www.optiver.com/ap/en/job-opportunities/eu-990203)| Netherlands | Present | Summer Technology Intern. Penultimate or last-year students. |
+| [StarLeaf](https://www.linkedin.com/jobs/search/?currentJobId=856542337&distance=25&f_C=285668&f_E=1&locationId=OTHERS.worldwide) | United Kingdom | Present | |
+| [Bloomberg](https://careers.bloomberg.com/job/search?el=Internships&fd=Engineering&lc=London)| United Kingdom | Present | |
 
 ### North America
 | Name | Location | Application Period | Notes  | 
