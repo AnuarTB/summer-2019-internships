@@ -33,7 +33,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [StarLeaf](https://www.linkedin.com/jobs/search/?currentJobId=856542337&distance=25&f_C=285668&f_E=1&locationId=OTHERS.worldwide) | United Kingdom | Present | |
 | [Bloomberg](https://careers.bloomberg.com/job/search?el=Internships&fd=Engineering&lc=London)| United Kingdom | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)| United Kingdom | Present | |
-
+| [Quadrature Capital](https://www.quadraturecapital.com/careers/jobs)| United Kingdom | Present | Quant Developer and Linux Systems Engineer Internships. Must graduate till Summer 2020. |
+ 
 ### North America
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
