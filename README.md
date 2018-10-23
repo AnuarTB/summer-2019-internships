@@ -12,7 +12,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ## Currently Open Applications
 
 ### Asia & Pacific
-| Name | Location | Application Period | Notes  | 
+| Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Skelter Labs](mailto:recruit@skelterlabs.com)  | South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
 | [HDE Global Internship Program](https://www.hde.co.jp/en/gip/)| Japan | Present | For junior or senior students. Many 6-7 week slots for internships. |
@@ -20,24 +20,24 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Zendesk](https://www.zendesk.com/jobs/singapore/)| Singapore | Present | Internship Period - January to June 2019 |
 
 ### Europe
-| Name | Location | Application Period | Notes  | 
+| Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [KAYAK](https://www.kayak.com/careers/#jobopenings) | United Kingdom, Lithuania | Present | SWE Intern. |
-| [MongoDB](https://www.mongodb.com/careers/jobs/1382874) | Ireland | Present | SWE Intern | 
-| [Spotify](https://www.spotifyjobs.com/search-jobs/#category=students&location=uk%2Csweden%2Cspain%2Cfrance%2Citaly)| United Kingdom, Sweden | Present | A variety of internship positions, from UX to ML. Article: ["How to get a job at Spotify"](https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/)| 
-| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)| Frankfurt, Johannesburg, London, Madrid, Moscow, Stockholm, Tel Aviv, Warsaw, Zurich | Present | For sophomores and juniors. The position will depend on your application | 
+| [MongoDB](https://www.mongodb.com/careers/jobs/1382874) | Ireland | Present | SWE Intern |
+| [Spotify](https://www.spotifyjobs.com/search-jobs/#category=students&location=uk%2Csweden%2Cspain%2Cfrance%2Citaly)| United Kingdom, Sweden | Present | A variety of internship positions, from UX to ML. Article: ["How to get a job at Spotify"](https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/)|
+| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)| Frankfurt, Johannesburg, London, Madrid, Moscow, Stockholm, Tel Aviv, Warsaw, Zurich | Present | For sophomores and juniors. The position will depend on your application |
 | [JetBrains](https://www.jetbrains.com/company/jobs/#sw-dev-intern-idea-munich) | Germany, Russia | Present | Software Developer Intern and Research Intern. |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-dublin) | Ireland | Present | SWE Intern. Plan to graduate in 2019/2020/2021 |
-| [Lyft](https://boards.greenhouse.io/lyft/jobs/4076400002?gh_jid=4076400002)  | Germany | Present | SWE Intern - Autonomous Driving. | 
+| [Lyft](https://boards.greenhouse.io/lyft/jobs/4076400002?gh_jid=4076400002)  | Germany | Present | SWE Intern - Autonomous Driving. |
 | [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
 | [Optiver](https://www.optiver.com/ap/en/job-opportunities/eu-990203)| Netherlands | Present | Summer Technology Intern. Penultimate or last-year students. |
 | [StarLeaf](https://www.linkedin.com/jobs/search/?currentJobId=856542337&distance=25&f_C=285668&f_E=1&locationId=OTHERS.worldwide) | United Kingdom | Present | |
 | [Bloomberg](https://careers.bloomberg.com/job/search?el=Internships&fd=Engineering&lc=London)| United Kingdom | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)| United Kingdom | Present | |
 | [Quadrature Capital](https://www.quadraturecapital.com/careers/jobs)| United Kingdom | Present | Quant Developer and Linux Systems Engineer Internships. Must graduate till Summer 2020. |
- 
+
 ### North America
-| Name | Location | Application Period | Notes  | 
+| Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 | [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
@@ -207,7 +207,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 ## Applications opening soon
 
-| Name | Location | Open Date/Period | Notes  | 
+| Name | Location | Open Date/Period | Notes  |
 |---|---|---|---|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 |[Mozilla](https://careers.mozilla.org/listings/?position_type=Intern) | CA, Toronto, Paris | September-March  | |
@@ -217,7 +217,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 ## Unknown application release date 
 
-| Name | Location | Application Period | Notes  | 
+| Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | ? | |
