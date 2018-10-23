@@ -17,6 +17,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Skelter Labs](mailto:recruit@skelterlabs.com)  | South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
 | [HDE Global Internship Program](https://www.hde.co.jp/en/gip/)| Japan | Present | For junior or senior students. Many 6-7 week slots for internships. |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)| Hong Kong | Present | |
+| [Zendesk](https://www.zendesk.com/jobs/singapore/)| Singapore | Present | Internship Period - January to June 2019 |
 
 ### Europe
 | Name | Location | Application Period | Notes  | 
