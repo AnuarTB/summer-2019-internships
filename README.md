@@ -11,7 +11,19 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 ## Currently Open Applications
 
+### Companies Require Korean
+
+| Name                                     | Location | Period  | Notes                         | Korean req. |
+| ---------------------------------------- | -------- | ------- | ----------------------------- | ----------- |
+| [Kakao](https://careers.kakao.com/index) | Seoul    | Present | New grad application is over. | Advanced    |
+|                                          |          |         |                               |             |
+|                                          |          |         |                               |             |
+|                                          |          |         |                               |             |
+
+
+
 ### Asia & Pacific
+
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Skelter Labs](mailto:recruit@skelterlabs.com)  | South Korea | Present | Several positions are available. Please contact the recruiter to know more. |
