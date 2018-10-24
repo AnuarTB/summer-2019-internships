@@ -11,14 +11,11 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 ## Currently Open Applications
 
-### Companies Require Korean
+### Companies With Language Requirement
 
-| Name                                     | Location | Period  | Notes                         | Korean req. |
-| ---------------------------------------- | -------- | ------- | ----------------------------- | ----------- |
-| [Kakao](https://careers.kakao.com/index) | Seoul    | Present | New grad application is over. | Advanced    |
-|                                          |          |         |                               |             |
-|                                          |          |         |                               |             |
-|                                          |          |         |                               |             |
+| Name                                     | Location | Period  | Notes                         | Language(Level)  |
+| ---------------------------------------- | -------- | ------- | ----------------------------- | ---------------- |
+| [Kakao](https://careers.kakao.com/index) | Seoul    | Present | New grad application is over. | Korean(Advanced) |
 
 
 
