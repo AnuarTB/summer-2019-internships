@@ -27,6 +27,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [HDE Global Internship Program](https://www.hde.co.jp/en/gip/)| Japan | Present | For junior or senior students. Many 6-7 week slots for internships. |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)| Hong Kong | Present | |
 | [Zendesk](https://www.zendesk.com/jobs/singapore/)| Singapore | Present | Internship Period - January to June 2019 |
+| [Clova](https://clova.ai/m/en/research/careers.html) | South Korea | Present | Clova AI Research |
 
 ### Europe
 | Name | Location | Application Period | Notes  |
